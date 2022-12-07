@@ -64,10 +64,10 @@ var tempData = {}
 
 var autoBuyEnabled = true
 
-const updateSpeed = 200
-const baseLifespan = 365 * 70
-const baseGameSpeed = 4
-const heroIncomeMult = 2500000000000000000
+var updateSpeed = 20
+var baseLifespan = 365 * 70
+var baseGameSpeed = 4
+var heroIncomeMult = 2500000000000000000
 
 
 const permanentUnlocks = ["Quick task display"]
